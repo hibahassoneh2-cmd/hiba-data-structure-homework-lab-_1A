@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hiba guided example lab_1A/hiba guided example lab_1A.vcxproj" />
+</Solution>

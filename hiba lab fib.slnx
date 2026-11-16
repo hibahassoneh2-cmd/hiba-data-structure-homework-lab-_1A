@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hiba lab fib/hiba lab fib.vcxproj" Id="5662a351-440f-4627-a70b-59ff4dc61179" />
+</Solution>
